@@ -1,3 +1,3 @@
 # 10KA Smart Contracts
 
-- [Smart Contracts](#contracts)
+- [Smart Contracts](contracts)
